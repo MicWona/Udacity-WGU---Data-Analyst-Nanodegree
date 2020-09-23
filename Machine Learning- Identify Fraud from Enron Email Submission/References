@@ -1,0 +1,56 @@
+Remove/add multiple elements from a list
+https://www.geeksforgeeks.org/remove-multiple-elements-from-a-list-in-python/
+
+Python scikit learn pca.explained_variance_ratio_ cutoff
+https://stackoverflow.com/questions/32857029/python-scikit-learn-pca-explained-variance-ratio-cutoff
+
+Using numpy. percentile
+https://numpy.org/doc/stable/reference/generated/numpy.percentile.html
+
+Open Tar.gz File in Windows 10
+https://www.arysontechnologies.com/blog/how-to-open-tar-gz-file-windows/
+
+Remove a feature using python
+https://stackoverflow.com/questions/28296670/remove-a-specific-feature-in-scikit-learn
+
+Using scoring parameter
+https://scikit-learn.org/stable/modules/model_evaluation.html
+
+Reasoning and assitance to create new features
+https://classroom.udacity.com/nanodegrees/nd002-wgu/parts/79fe59b5-205a-4ca3-8358-411a4505accd/modules/8601834a-82d3-41f7-908d-e7fd94f29ca4/lessons/d8cba740-912a-44ed-9261-76e247f80931/concepts/30179286950923
+
+
+Choosing parameters for kBest
+- https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectKBest.html
+- https://towardsdatascience.com/why-how-and-when-to-apply-feature-selection-e9c69adfabf2
+
+Determine best parameters for kBest
+- https://classroom.udacity.com/nanodegrees/nd002-wgu/parts/79fe59b5-205a-4ca3-8358-411a4505accd/modules/8601834a-82d3-41f7-908d-e7fd94f29ca4/lessons/44735d06-3cc4-47b1-b8d5-ccaa3bf28061/concepts/30045588270923
+- https://classroom.udacity.com/nanodegrees/nd002-wgu/parts/79fe59b5-205a-4ca3-8358-411a4505accd/modules/8601834a-82d3-41f7-908d-e7fd94f29ca4/lessons/44735d06-3cc4-47b1-b8d5-ccaa3bf28061/concepts/29878785820923
+
+Sorting scores with k
+https://www.thetopsites.net/article/58298164.shtml
+
+Findings from manual glance of finance data
+http://localhost:8888/files/Machine-Learning-C753/ud120-projects-master/ud120-projects master/final_project/enron61702insiderpay.pdf
+
+Get a feature name from feature_imortances_
+https://stackoverflow.com/questions/30355159/python-how-to-get-real-feature-name-from-feature-importances
+
+Reasoning to scale features
+-https://classroom.udacity.com/nanodegrees/nd002-wgu/parts/79fe59b5-205a-4ca3-8358-411a4505accd/modules/8601834a-82d3-41f7-908d-e7fd94f29ca4/lessons/ad62d330-8df5-472a-ac91-1d476ac3de9a/concepts/31349385400923
+- https://www.geeksforgeeks.org/python-how-and-where-to-apply-feature-scaling/
+
+Using GridSearchCV with Decision Trees
+https://stackoverflow.com/questions/31161637/grid-search-cross-validation-in-sklearn
+
+Using GridSearchCV scoring as F1 instead of default
+- https://knowledge.udacity.com/questions/296243
+- https://www.quora.com/How-do-I-properly-use-SelectKBest-GridSearchCV-and-cross-validation-in-the-sklearn-package-together
+
+
+https://knowledge.udacity.com/questions/327172
+- Add more features, parameters, and using Random forest
+
+Using StratifiedShuffleSplit,  
+https://knowledge.udacity.com/questions/327172

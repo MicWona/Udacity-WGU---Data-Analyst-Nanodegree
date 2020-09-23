@@ -1,0 +1,31 @@
+References
+
+http://stackoverflow.com/questions/3095434/inserting-newlines-in-xml-file-generated-via-xml-etree-elementtree-in-python
+
+How to use split() with position
+https://stackoverflow.com/questions/2148119/how-to-convert-an-xml-string-to-a-dictionary
+
+Correct error when creating sample osm
+https://stackoverflow.com/questions/43663206/typeerror-unsupported-operand-types-for-dict-values-and-int
+
+Correct schema attribute for module schema in Python 3.7
+https://stackoverflow.com/questions/56694845/module-object-has-no-attribute-schema
+https://www.programcreek.com/python/example/50397/schema.Schema
+
+Correct schema import issue
+https://knowledge.udacity.com/questions/263986
+
+Update 'dict' object to match syntax for Python 3.7
+https://stackoverflow.com/questions/30418481/error-dict-object-has-no-attribute-iteritems
+
+Update 'unicode' to 'str' to match syntax for Python 3.7
+https://stackoverflow.com/questions/19877306/nameerror-global-name-unicode-is-not-defined-in-python-3
+
+Fix issue of node and way looping
+https://knowledge.udacity.com/questions/307235
+
+Replace string for street name using dictionary
+https://stackoverflow.com/questions/2400504/easiest-way-to-replace-a-string-using-a-dictionary-of-replacements
+
+Fix unicode issue
+https://docs.python.org/2.7/howto/unicode.html

@@ -1,0 +1,40 @@
+References
+
+Applying log10 to long tail data
+https://classroom.udacity.com/nanodegrees/nd002-wgu/parts/524d1a69-c320-4eb3-bf2a-6787126d5f55/modules/54a08fbe-5134-4656-b9e2-a74eff8d8efd/lessons/4f8a0c4b-650b-466d-ad08-b59dc880b621/concepts/8140986360923
+
+Changing a interger to a categorical varaible
+https://stats.idre.ucla.edu/r/modules/factor-variables/
+
+Limiting axis
+https://classroom.udacity.com/nanodegrees/nd002-wgu/parts/524d1a69-c320-4eb3-bf2a-6787126d5f55/modules/54a08fbe-5134-4656-b9e2-a74eff8d8efd/lessons/4f8a0c4b-650b-466d-ad08-b59dc880b621/concepts/8140986470923
+
+Createing a correlation matrix
+- http://www.sthda.com/english/wiki/correlation-matrix-a-quick-start-guide-to-analyze-format-and-visualize-a-correlation-matrix-using-r-software
+- https://www.displayr.com/how-to-create-a-correlation-matrix-in-r/
+
+Visualizing a correlation matrix
+http://www.sthda.com/english/wiki/visualize-correlation-matrix-using-correlogram
+
+Using a categorical varaibles for cor.test
+https://www.rdocumentation.org/packages/h2o/versions/3.30.0.1/topics/as.numeric
+
+Using spearmen for quality correlation
+https://www.statisticssolutions.com/correlation-pearson-kendall-spearman/
+
+Determine meaninful or strong correlations levels
+https://classroom.udacity.com/nanodegrees/nd002-wgu/parts/524d1a69-c320-4eb3-bf2a-6787126d5f55/modules/54a08fbe-5134-4656-b9e2-a74eff8d8efd/lessons/aae131b2-1ad9-4972-b699-e305296d5d0c/concepts/8651687490923
+
+Changes to legends 
+https://ggplot2.tidyverse.org/reference/guide_legend.html
+
+Color schemes in schale_color_brewer
+- https://rpubs.com/seslezak/color_schemes
+- https://www.r-graph-gallery.com/264-control-ggplot2-boxplot-colors.html
+- http://www.cookbook-r.com/Graphs/Colors_(ggplot2)/
+
+Legend alterations
+https://www.r-graph-gallery.com/264-control-ggplot2-boxplot-colors.html
+
+Alpha values
+https://knowledge.udacity.com/questions/321252
